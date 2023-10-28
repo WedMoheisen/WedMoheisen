@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WedMoheisen
+- 👀 I’m interested in Data Science & Cloud Computing
+- 🌱 I’m currently learning Data Engineering
+- 📫  reach me: wemoalqo@gmail.com
